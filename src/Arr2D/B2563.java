@@ -16,6 +16,7 @@ public class B2563 {
             st = new StringTokenizer(br.readLine());
             int x = Integer.parseInt(st.nextToken());
             int y = Integer.parseInt(st.nextToken());
+            
 
             for(int j =y; j < y+10; j++ ){
 
